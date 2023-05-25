@@ -5,3 +5,5 @@ Comienzo del proyecto Partículas</h1>
 <br><strng>
 Aquí  está el enlace a la wiki de JavaScript</br><strong>
 https://github.com/LedesmaSil/Particulas.wiki.git
+Ahora por último aquí está la wiki de HTML:
+https://github.com/LedesmaSil/Particulas/wiki/wiki-JavaScript </strong></br>
